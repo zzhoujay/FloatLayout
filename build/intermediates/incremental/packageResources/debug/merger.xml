@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\android_studio\project\GoalBoard\floatlayout\src\main\res"><file path="E:\android_studio\project\GoalBoard\floatlayout\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="FloatLayout">
+        <attr format="boolean" name="auto_center"/>
+        <attr format="dimension" name="width_space"/>
+        <attr format="dimension" name="height_space"/>
+    </declare-styleable></file><file path="E:\android_studio\project\GoalBoard\floatlayout\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">FloatLayout</string></file></source><source path="E:\android_studio\project\GoalBoard\floatlayout\build\generated\res\rs\debug"/><source path="E:\android_studio\project\GoalBoard\floatlayout\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="E:\android_studio\project\GoalBoard\floatlayout\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="FloatLayout"><attr format="boolean" name="auto_center"/><attr format="dimension" name="width_space"/><attr format="dimension" name="height_space"/></declare-styleable></configuration></mergedItems></merger>

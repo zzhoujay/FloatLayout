@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FloatLayout"><attr format="boolean" name="auto_center"/><attr format="dimension" name="width_space"/><attr format="dimension" name="height_space"/></declare-styleable>
+    <!-- From: file:/E:/android_studio/project/GoalBoard/floatlayout/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">FloatLayout</string>
+</resources>
